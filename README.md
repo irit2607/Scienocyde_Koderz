@@ -2,8 +2,8 @@
 <h1>Team: Koderz</h1>
 <p>Team Members</p>
 <ul>
-  <li>Sanskriti</li>
-  <li>Irit</li>
+  <li>Sanskriti Kushik</li>
+  <li>Irit Kushwaha</li>
 </ul>
 <p>Idea: Science Fair management system (Scienocyde)</p>
 <p>In this covid period, school and college-level science fairs are hardly taking place.
