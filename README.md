@@ -1,5 +1,5 @@
 # Scienocyde_Koderz
-<h1>Team: Koderz</h1>
+<h2>Team: Koderz</h2>
 <p>Team Members</p>
 <ul>
   <li>Sanskriti Kushik</li>
